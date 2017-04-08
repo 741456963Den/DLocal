@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 111
 
 cxcx
@@ -7,3 +8,6 @@ xc
 xcxcxcxc
 
 22
+=======
+111
+>>>>>>> parent of cf1ad13... 2
